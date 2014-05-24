@@ -1,4 +1,4 @@
-Getting_and_Cleaning_Data_Course_Project
+README
 ========================================
 
 Getting and Cleaning Data Course Project 
