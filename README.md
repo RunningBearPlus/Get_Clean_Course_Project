@@ -4,7 +4,9 @@ README
 Getting and Cleaning Data Course Project 
 
 The run_analysis script is based on the following five steps to create 2 tidy datasets
+
 please note, this script will produce 2 tab delimited txt file ( tidy_final.txt and agg_tidy.txt)
+
 You can use read.table("your directory/tidy_final.txt",header = TRUE,sep = "\t") to load the dataset
 
 * 1.Merges the training and the test sets to create one data set.
